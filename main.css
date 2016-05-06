@@ -1,0 +1,53 @@
+.container {
+  margin: 0 auto;
+  width: 768px;
+}
+
+header {
+  background-color: black;
+}
+
+#logo {
+  display: block;
+  margin: auto;
+}
+
+nav{
+  background-color: #C0C0C0;
+  border: 25px;
+  padding: 5px;
+  margin: auto;
+  border-width: 50px;
+}
+
+ul{
+  margin: 0 auto;
+  padding: 0;
+
+}
+
+li {
+
+  float:left;
+  list-style: none;
+  border-style: none; 
+  /*margin-bottom: 5px; */
+}
+
+a {
+
+  margin: auto;
+  
+  padding: 0 60px;
+  color: #FFFFFF;
+  text-decoration: none;
+  font-size: large;
+   
+}
+
+strong {
+  margin: 0 ;
+  padding: 0;
+  line-height: 5em;
+
+}
